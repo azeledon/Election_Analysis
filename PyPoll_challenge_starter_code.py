@@ -1,6 +1,14 @@
 # -*- coding: UTF-8 -*-
 """PyPoll Homework Challenge Solution."""
 
+# The data we need to retrive.
+# Total number of votes cast
+# A complete list of candidates who received votes
+# Total number of votes each candidate received
+# Percentage of votes each candidate won
+# The winner of the election based on popular vote
+# Open the election results and read the file
+
 # Add our dependencies.
 import csv
 import os
